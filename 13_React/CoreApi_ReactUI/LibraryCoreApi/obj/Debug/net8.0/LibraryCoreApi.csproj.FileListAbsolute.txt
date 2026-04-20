@@ -1,0 +1,823 @@
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.csproj.AssemblyReference.cache
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.AssemblyInfoInputs.cache
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.AssemblyInfo.cs
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.csproj.CoreCompileInputs.cache
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.MvcApplicationPartsAssemblyInfo.cs
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.MvcApplicationPartsAssemblyInfo.cache
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\appsettings.Development.json
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\appsettings.json
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.exe
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.deps.json
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.runtimeconfig.json
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.pdb
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Azure.Core.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Azure.Identity.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Humanizer.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\System.CodeDom.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Memory.Data.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.build.json
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.development.json
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.LibraryCoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LibraryCoreApi.props
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibraryCoreApi.props
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibraryCoreApi.props
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\scopedcss\bundle\LibraryCoreApi.styles.css
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryC.96DE2BBC.Up2Date
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.dll
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\refint\LibraryCoreApi.dll
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.pdb
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.genruntimeconfig.cache
+G:\Library2\LibraryCoreApi\obj\Debug\net8.0\ref\LibraryCoreApi.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\appsettings.Development.json
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\appsettings.json
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.exe
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.deps.json
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.runtimeconfig.json
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.pdb
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Azure.Core.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Azure.Identity.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Humanizer.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\System.CodeDom.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Memory.Data.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.csproj.AssemblyReference.cache
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.AssemblyInfoInputs.cache
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.AssemblyInfo.cs
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.csproj.CoreCompileInputs.cache
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.MvcApplicationPartsAssemblyInfo.cs
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.MvcApplicationPartsAssemblyInfo.cache
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.build.json
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.development.json
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.LibraryCoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LibraryCoreApi.props
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibraryCoreApi.props
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibraryCoreApi.props
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.pack.json
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\scopedcss\bundle\LibraryCoreApi.styles.css
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryC.96DE2BBC.Up2Date
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\refint\LibraryCoreApi.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.pdb
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.genruntimeconfig.cache
+G:\IDB_R57_NVIT\11_Angular\NewFolder\Library2\LibraryCoreApi\obj\Debug\net8.0\ref\LibraryCoreApi.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\appsettings.Development.json
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\appsettings.json
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.exe
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.deps.json
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.runtimeconfig.json
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.pdb
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Azure.Core.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Azure.Identity.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Humanizer.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\System.CodeDom.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\System.Memory.Data.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.csproj.AssemblyReference.cache
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.AssemblyInfoInputs.cache
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.AssemblyInfo.cs
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.csproj.CoreCompileInputs.cache
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.MvcApplicationPartsAssemblyInfo.cs
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.MvcApplicationPartsAssemblyInfo.cache
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.build.json
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.development.json
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.LibraryCoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LibraryCoreApi.props
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibraryCoreApi.props
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibraryCoreApi.props
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.pack.json
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\scopedcss\bundle\LibraryCoreApi.styles.css
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\LibraryC.96DE2BBC.Up2Date
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\refint\LibraryCoreApi.dll
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.pdb
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.genruntimeconfig.cache
+G:\IDB_R57_NVIT\11_Angular\NewFolder\library_core8_api_angular16_ui\LibraryCoreApi\obj\Debug\net8.0\ref\LibraryCoreApi.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\appsettings.Development.json
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\appsettings.json
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.exe
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.deps.json
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.runtimeconfig.json
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.pdb
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Azure.Core.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Humanizer.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.csproj.AssemblyReference.cache
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.AssemblyInfoInputs.cache
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.AssemblyInfo.cs
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.csproj.CoreCompileInputs.cache
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.MvcApplicationPartsAssemblyInfo.cs
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.MvcApplicationPartsAssemblyInfo.cache
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.LibraryCoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LibraryCoreApi.props
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibraryCoreApi.props
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibraryCoreApi.props
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\scopedcss\bundle\LibraryCoreApi.styles.css
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.csproj.CopyComplete
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\refint\LibraryCoreApi.dll
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.pdb
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.genruntimeconfig.cache
+D:\ESAD-CS\12_React\React_Practical\Test\with_api\emp\LibraryCoreApi\obj\Debug\net8.0\ref\LibraryCoreApi.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\appsettings.Development.json
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\appsettings.json
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.staticwebassets.endpoints.json
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.exe
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.deps.json
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.runtimeconfig.json
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.pdb
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Azure.Core.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Humanizer.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.csproj.AssemblyReference.cache
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.AssemblyInfoInputs.cache
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.AssemblyInfo.cs
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.csproj.CoreCompileInputs.cache
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.MvcApplicationPartsAssemblyInfo.cs
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.MvcApplicationPartsAssemblyInfo.cache
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\scopedcss\bundle\LibraryCoreApi.styles.css
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\swae.build.ex.cache
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\LibraryC.96DE2BBC.Up2Date
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\refint\LibraryCoreApi.dll
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.pdb
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.genruntimeconfig.cache
+D:\ESAD-CS\12_React\React_Practical\Ready To Deliver\Core8_Api_React18_UI_Angular16_UI_CRUD\LibraryCoreApi\obj\Debug\net8.0\ref\LibraryCoreApi.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\appsettings.Development.json
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.staticwebassets.endpoints.json
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\appsettings.json
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.exe
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.deps.json
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.runtimeconfig.json
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\LibraryCoreApi.pdb
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Azure.Core.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Azure.Identity.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Humanizer.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\System.CodeDom.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\System.Memory.Data.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.csproj.AssemblyReference.cache
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.AssemblyInfoInputs.cache
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.AssemblyInfo.cs
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.csproj.CoreCompileInputs.cache
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.MvcApplicationPartsAssemblyInfo.cs
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.MvcApplicationPartsAssemblyInfo.cache
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\scopedcss\bundle\LibraryCoreApi.styles.css
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\LibraryC.96DE2BBC.Up2Date
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\refint\LibraryCoreApi.dll
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.pdb
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\LibraryCoreApi.genruntimeconfig.cache
+E:\IDB_R67_MONI\13_React\CoreApi_ReactUI\LibraryCoreApi\obj\Debug\net8.0\ref\LibraryCoreApi.dll
